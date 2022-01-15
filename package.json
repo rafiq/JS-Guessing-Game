@@ -1,0 +1,23 @@
+{
+  "name": "guessing-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "guessingGame.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafiq/JS-Guessing-Game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "bugs": {
+    "url": "https://github.com/rafiq/JS-Guessing-Game/issues"
+  },
+  "homepage": "https://github.com/rafiq/JS-Guessing-Game#readme"
+}
